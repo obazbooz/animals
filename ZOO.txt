@@ -2,3 +2,5 @@ Three animals in the zoo:
 1- Lion
 2- Monkey
 3- giraffe
+4- Snake
+5- Tiger
